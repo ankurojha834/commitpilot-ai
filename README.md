@@ -26,7 +26,7 @@
 ## 📦 Installation
 
 ```bash
-npm install -g commit-sage
+npm install -g commitpilot-ai
 ```
 
 **Requirements:** Node.js >= 18.0.0
